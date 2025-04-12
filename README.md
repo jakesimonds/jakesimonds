@@ -24,6 +24,6 @@
 
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/jakesimonds)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jakesimonds&show_icons=true&theme=radical)](https://github.com/jakesimonds)
 
 
